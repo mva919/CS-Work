@@ -1,0 +1,20 @@
+CS 202 - Assignment #1
+Benford's Law Program
+File Name: livejournal.txt
+
+---------------------------------
+Benford's Law - Test Results: 
+Total Data Points: 1879
+First Digit:
+
+0       0|-0
+1     982|**********-10
+2     276|***-3
+3      30|-0
+4      38|-0
+5      50|-0
+6      91|-0
+7      94|-0
+8     121|*-1
+9     197|**-2
+---------------------------------
